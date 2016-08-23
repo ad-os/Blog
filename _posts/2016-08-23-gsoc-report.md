@@ -46,7 +46,7 @@ This pretty much sums up the short overview of my project. For detailed informat
 4. [Pull Request](https://github.com/apache/incubator-fineract/pull/178)
 5. [Live Demo](https://www.dropbox.com/s/hefwvnvnziegatd/final.mp4?dl=0)
 
-I would like  to thank [Edward Cable](https://www.linkedin.com/in/edcable) (Director of community programs, Mifos Initiative) for being so phenomenal during the entire period of Google Summer Of Code.
+> I would like  to thank [Edward Cable](https://www.linkedin.com/in/edcable) (Director of community programs, Mifos Initiative) for being so phenomenal during the entire period of Google Summer Of Code.
 
 
 > **A big thanks to my mentor ([Pranjal Goswami](https://www.linkedin.com/in/goswamipranjal)) who always cleared my doubts even if he was too busy with his work :) and without whom it would have been very difficult to complete this project.**

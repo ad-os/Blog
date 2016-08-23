@@ -29,7 +29,7 @@
           <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
             <state split_layout="FIRST">
               <first_editor relative-caret-position="495">
-                <caret line="48" column="106" selection-start-line="48" selection-start-column="106" selection-end-line="48" selection-end-column="106" />
+                <caret line="48" column="2" selection-start-line="48" selection-start-column="2" selection-end-line="48" selection-end-column="2" />
                 <folding />
               </first_editor>
               <second_editor />
@@ -269,7 +269,7 @@
       <workItem from="1471894850594" duration="9482000" />
       <workItem from="1471925900720" duration="2447000" />
       <workItem from="1471945352367" duration="24000" />
-      <workItem from="1471960580882" duration="2130000" />
+      <workItem from="1471960580882" duration="2255000" />
     </task>
     <task id="LOCAL-00001" summary="Updated angular post">
       <created>1461706771850</created>
@@ -460,11 +460,18 @@
       <option name="project" value="LOCAL" />
       <updated>1471928190117</updated>
     </task>
-    <option name="localTasksCounter" value="28" />
+    <task id="LOCAL-00028" summary="GSOC Report">
+      <created>1471962789900</created>
+      <option name="number" value="00028" />
+      <option name="presentableId" value="LOCAL-00028" />
+      <option name="project" value="LOCAL" />
+      <updated>1471962789900</updated>
+    </task>
+    <option name="localTasksCounter" value="29" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="27098000" />
+    <option name="totallyTimeSpent" value="27223000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="24" width="1440" height="876" extended-state="6" />
@@ -641,7 +648,7 @@
       <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
         <state split_layout="FIRST">
           <first_editor relative-caret-position="495">
-            <caret line="48" column="106" selection-start-line="48" selection-start-column="106" selection-end-line="48" selection-end-column="106" />
+            <caret line="48" column="2" selection-start-line="48" selection-start-column="2" selection-end-line="48" selection-end-column="2" />
             <folding />
           </first_editor>
           <second_editor />
