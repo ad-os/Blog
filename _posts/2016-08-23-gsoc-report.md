@@ -11,7 +11,7 @@ categories: jekyll Update
 
 ### Introduction
 
-From the past two and a half months I have been working on building a notification module for the Mifos organization. This module will help the developers of the organisation to integrate notifications with their functionality with a simple use of an API. For e.g if a developer wants that whenever a function X is processed some users must be notified about it. So with the use of this module it would become easy for the developers to notify other users without writing much code and need not worry about it's reception and storage details.
+From the past two and a half months I have been working on building a notification module for the Mifos organization. This module will help the developers of the organisation to integrate notifications with their functionality with a simple use of an API. For e.g if a developer wants that whenever a function X is processed, some users must be notified about it. So with the use of this module it would become easy for the developers to notify other users without writing much code and need not worry about it's reception and storage details.
 
 ### Overview of the project
 
@@ -32,7 +32,7 @@ My project mainly consisted of two parts, first one required working on the back
 
 #### Deliver the notifications to the users (Front-End part)
 
-- Now to deliver the notifications to the user on client side, the most common way is to poll the server after specific period of time to check whether the notifications for the current user are available or not.But this is not very efficient technique to fetch notifications.
+- Now to deliver the notifications to the user on client side, the most common way is to poll the server after specific period of time to check whether the notifications for the current user are available or not. This is not very efficient technique to fetch notifications.
 
 - The method which I have used to for the delivery of notifications is that, for every rest request which the UI makes there will be a reponse header 'X-Notification-Refresh' which will cone along with the response and that header will contain the information like true or false. If that response header is true then fetch the notifications as there are unread notifications for the current user else ignore.
 
@@ -49,7 +49,7 @@ This pretty much sums up the short overview my project :). For detailed informat
 Thanks to the mifos community for providing awesome experience during this summer.
 
 
-> **Thanks to my mentor who always cleared my doubts even if he was too busy with his work :)**
+> **Thanks to my mentor who always cleared my doubts even if he was too busy with his work :) and without whom it would have been very difficult to complete this project.**
 
 
 
