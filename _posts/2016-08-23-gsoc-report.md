@@ -20,9 +20,9 @@ My project mainly consisted of two parts, first one required working on the back
 #### Generate and store the notifications (Back-end part)
 
 - I have used pub-sub model to generate and receive the notifications.
-- An external queue has also been used with the help of [ActiveMq](http://activemq.apache.org/) library to make the publication(generation) and subscription(reception) of messages to be asynchronous.
+- An external queue has also been used with the help of [ActiveMq](http://activemq.apache.org/) library to make the publication(generation) and subscription(reception) of messages to be asynchronous. Read the below given points to know why we are using an external queue.
 
- > **Why we used an external queue ?**
+ > **Advantages of using an external queue ?**
 
 1. After inserting a message into an external queue it is not really required to process the message at the same time. It can be processed later i.e an external queue decouples the producer from the consumer.
 
