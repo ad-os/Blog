@@ -28,8 +28,8 @@
         <entry file="file://$PROJECT_DIR$/_posts/2016-05-31-Gsoc2.md">
           <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
             <state split_layout="FIRST">
-              <first_editor relative-caret-position="300">
-                <caret line="32" column="137" selection-start-line="32" selection-start-column="137" selection-end-line="32" selection-end-column="137" />
+              <first_editor relative-caret-position="645">
+                <caret line="32" column="90" selection-start-line="32" selection-start-column="90" selection-end-line="32" selection-end-column="90" />
                 <folding />
               </first_editor>
               <second_editor />
@@ -255,7 +255,7 @@
       <workItem from="1461844636928" duration="7885000" />
       <workItem from="1464685045211" duration="3456000" />
       <workItem from="1471894850594" duration="9482000" />
-      <workItem from="1471925900720" duration="615000" />
+      <workItem from="1471925900720" duration="679000" />
     </task>
     <task id="LOCAL-00001" summary="Updated angular post">
       <created>1461706771850</created>
@@ -376,11 +376,18 @@
       <option name="project" value="LOCAL" />
       <updated>1471926259042</updated>
     </task>
-    <option name="localTasksCounter" value="18" />
+    <task id="LOCAL-00018" summary="GSOC Report">
+      <created>1471926519914</created>
+      <option name="number" value="00018" />
+      <option name="presentableId" value="LOCAL-00018" />
+      <option name="project" value="LOCAL" />
+      <updated>1471926519914</updated>
+    </task>
+    <option name="localTasksCounter" value="19" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="23112000" />
+    <option name="totallyTimeSpent" value="23176000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="24" width="1360" height="744" extended-state="6" />
@@ -537,8 +544,8 @@
     <entry file="file://$PROJECT_DIR$/_posts/2016-05-31-Gsoc2.md">
       <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
         <state split_layout="FIRST">
-          <first_editor relative-caret-position="300">
-            <caret line="32" column="137" selection-start-line="32" selection-start-column="137" selection-end-line="32" selection-end-column="137" />
+          <first_editor relative-caret-position="645">
+            <caret line="32" column="90" selection-start-line="32" selection-start-column="90" selection-end-line="32" selection-end-column="90" />
             <folding />
           </first_editor>
           <second_editor />
