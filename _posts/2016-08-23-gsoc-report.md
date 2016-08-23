@@ -11,7 +11,7 @@ categories: jekyll Update
 
 ### Introduction
 
-From the past two and a half months I have been working on building a notification module for the Mifos organization. This module will help the developers of the organisation to integrate notifications with their functionality with a simple use of an API. For e.g if a developer wants that whenever a functions X is processed some users must me notified about it. So with the use of this module it would become easy for the developers to notify other users without writing much code and worry about it's reception and storage details.
+From the past two and a half months I have been working on building a notification module for the Mifos organization. This module will help the developers of the organisation to integrate notifications with their functionality with a simple use of an API. For e.g if a developer wants that whenever a function X is processed some users must be notified about it. So with the use of this module it would become easy for the developers to notify other users without writing much code and need not worry about it's reception and storage details.
 
 ### Overview of the project
 
