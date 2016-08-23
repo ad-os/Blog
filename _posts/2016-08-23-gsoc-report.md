@@ -36,7 +36,7 @@ My project mainly consisted of two parts, first one required working on the back
 
 - The method which I have used to for the delivery of notifications is that, for every rest request which the UI makes there will be a reponse header 'X-Notification-Refresh' which will cone along with the response and that header will contain the information like true or false. If that response header is true then fetch the notifications as there are unread notifications for the current user else ignore.
 
-This pretty much sums up the short overview my project :). For detailed information about my project, navigate to the links given below.
+This pretty much sums up the short overview of my project :). For detailed information about my project, navigate to the links given below.
 
 ### Links to the work done
 
@@ -46,7 +46,7 @@ This pretty much sums up the short overview my project :). For detailed informat
 4. [Pull Request](https://github.com/apache/incubator-fineract/pull/178)
 5. [Live Demo](https://www.dropbox.com/s/hefwvnvnziegatd/final.mp4?dl=0)
 
-Thanks to the mifos community for providing awesome experience during this summer.
+Thanks to the mifos community for providing an awesome experience during this summer.
 
 
 > **Thanks to my mentor who always cleared my doubts even if he was too busy with his work :) and without whom it would have been very difficult to complete this project.**
