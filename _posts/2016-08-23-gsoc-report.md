@@ -43,8 +43,9 @@ This pretty much sums up the short overview of my project. For detailed informat
 1. [Notification Module Design](https://mifosforge.jira.com/wiki/pages/viewpage.action?pageId=133070890)
 2. [Notification API Developer User Guide](https://mifosforge.jira.com/wiki/display/MDZ/Notification+API+Developer+User+Guide)
 3. [Configure Notifications-End User guide](https://mifosforge.jira.com/wiki/display/docs/Configure+Notifications)
-4. [Pull Request](https://github.com/apache/incubator-fineract/pull/178)
-5. [Live Demo](https://www.dropbox.com/s/hefwvnvnziegatd/final.mp4?dl=0)
+4. [Pull Request(Back-End)](https://github.com/apache/incubator-fineract/pull/178)
+5. [Pull Request(Front-End)](https://github.com/kamdjouduplex/community-app/pull/1)
+6. [Live Demo](https://www.dropbox.com/s/hefwvnvnziegatd/final.mp4?dl=0)
 
 > **I would like  to thank [Edward Cable](https://www.linkedin.com/in/edcable) (Director of community programs, Mifos Initiative) for being so phenomenal during the entire period of Google Summer Of Code.**
 
